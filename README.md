@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
 <h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
-<h3 align="center">A Data Science Enthusiast from India</h3>
+<h3 align="center">I'm Data Science Enthusiast from India</h3>
 <img align="right" alt="coding" width="400"src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **Flutter**
@@ -57,8 +57,4 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayku2002&theme=vue" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayku2002&show_icons=true&locale=en&layout=compact" alt="abhayku2002" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhayku2002&show_icons=true&locale=en" alt="abhayku2002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhayku2002&" alt="abhayku2002" /></p>
