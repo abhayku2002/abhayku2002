@@ -1,13 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
 <h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayku2002&label=Profile%20views&color=0e75b6&style=flat" alt="abhayku2002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayku2002" alt="abhayku2002" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@abhayku2002" target="blank"><img src="https://img.shields.io/twitter/follow/@abhayku2002?logo=twitter&style=for-the-badge" alt="@abhayku2002" /></a> </p>
+<img align="right" alt="coding" width="400"src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -17,7 +11,18 @@
 
 - 📫 How to reach me **abhayku2002@gmail.com**
 
-- ⚡ Fun fact **Video Editing is one of my hidden talents**
+- ⚡ Fun fact **: Video Editing is one of my hidden talents**
+
+- 🎀 Good at **Andriod App development, Database**
+
+- ✅ **Make it work, make it right, make it fast**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayku2002&label=Profile%20views&color=0e75b6&style=flat" alt="abhayku2002" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhayku2002" alt="abhayku2002" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@abhayku2002" target="blank"><img src="https://img.shields.io/twitter/follow/@abhayku2002?logo=twitter&style=for-the-badge" alt="@abhayku2002" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
