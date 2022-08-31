@@ -1,13 +1,13 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
 <h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Data Science Enthusiast from India</h3>
 <img align="right" alt="coding" width="400"src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🌱 I’m currently learning **Flutter**
 
 - 📝 I regularly write articles on [https://medium.com/@abhayku2002](https://medium.com/@abhayku2002)
 
-- 💬 Ask me about **C++, Python**
+- 💬 Ask me about **C/C++, Python**
 
 - 📫 How to reach me **abhayku2002@gmail.com**
 
