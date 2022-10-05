@@ -3,7 +3,7 @@
 <h3 align="center">I'm Data Science Enthusiast from India</h3>
 <img align="right" alt="coding" width="400"src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter,JavaScript **
 
 - 📝 I regularly write articles on [https://medium.com/@abhayku2002](https://medium.com/@abhayku2002)
 
