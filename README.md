@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif) -->
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Finstitute.careerguide.com%2Fbecome-a-data-scientist-in-the-21st-century%2F&psig=AOvVaw3O-VT21HwaS2i-iQINF5Z2&ust=1676828287245000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOj5jbrOn_0CFQAAAAAdAAAAABAb)
+![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Finstitute.careerguide.com%2Fbecome-a-data-scientist-in-the-21st-century%2F&psig=AOvVaw3O-VT21HwaS2i-iQINF5Z2&ust=1676828287245000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOj5jbrOn_0CFQAAAAAdAAAAABAb](https://www.cloudyml.com/wp-content/uploads/2022/06/Insurance-Leadspace-Aniamted.gif)
 <h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
 <h3 align="center">I'm Data Science Enthusiast from India</h3>
 <img align="right" alt="coding" width="400"src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
