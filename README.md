@@ -3,7 +3,7 @@
 <h3 align="center">I'm Data Science Enthusiast from India</h3>
 <img align="right" alt="coding" width="400"src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Flutter,JavaScript**
+- 🌱 I’m currently learning **Python,SQL,JavaScript**
 
 - 📝 I regularly write articles on [https://medium.com/@abhayku2002](https://medium.com/@abhayku2002)
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **: Video Editing is one of my hidden talents**
 
-- 🎀 Good at **Andriod App development, Database**
+- 🎀 Good at **AI Modeling, Data Management, Database**
 
 - ✅ **Make it work, make it right, make it fast**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayku2002&label=Profile%20views&color=0e75b6&style=flat" alt="abhayku2002" /> </p>
