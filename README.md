@@ -39,7 +39,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=abhayku2002&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=abhayku2002)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=abhayku2002)](https://twitter.com/abhayku2002/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
