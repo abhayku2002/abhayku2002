@@ -31,8 +31,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhayku2002&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<p align="left">
-src="https://github-readme-streak-stats.herokuapp.com/?user=abhayku2002&theme=nightowl&hide_border=false&align=left"</p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhayku2002&theme=nightowl&hide_border=false&align=left)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhayku2002&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
