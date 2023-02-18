@@ -6,9 +6,8 @@
 --🎀 Good at AI Modeling, Data Management, Database<br>
 --✅ Make it work, make it right, make it fast<br><br>
 
-<img src="https://www.cloudyml.com/wp-content/uploads/2022/06/Insurance-Leadspace-Aniamted.gif" align="left" height="300" width="600" />  
----
-  
+<img src="https://www.cloudyml.com/wp-content/uploads/2022/06/Insurance-Leadspace-Aniamted.gif" align="left" height="300" width="1000" />  
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhayku2002&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
