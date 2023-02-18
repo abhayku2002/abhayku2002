@@ -1,6 +1,9 @@
 # 💫 About Me:
 🌱 I’m currently learning Python, SQL, JavaScript.<br>📝 I regularly write articles on https://medium.com/@abhayku2002<br>💬 Ask me about C/C++, Python<br>📫 How to reach me abhayku2002@gmail.com<br>⚡ Fun fact: Video Editing is one of my hidden talents<br>🎀 Good at AI Modeling, Data Management, Database<br>✅ Make it work, make it right, make it fast<br><br>
 
+---
+[![](https://visitcount.itsvg.in/api?id=abhayku2002&icon=5&color=6)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/abhayku2002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhayku2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhayku2002) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhayku2002) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/abhayku2002) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhayku2002) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@youtube_blitz) 
@@ -26,10 +29,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=abhayku2002&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
