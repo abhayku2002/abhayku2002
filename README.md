@@ -3,12 +3,12 @@
 </div> 
 
 # 💫 About Me:
---🌱 I’m currently learning Python, SQL, JavaScript.<br>
---📝 I regularly write articles on https://medium.com/@abhayku2002<br>
---💬 Ask me about C/C++, Python<br>📫 How to reach me abhayku2002@gmail.com<br>
---⚡ Fun fact: Video Editing is one of my hidden talents<br>
---🎀 Good at AI Modeling, Data Management, Database<br>
---✅ Make it work, make it right, make it fast<br><br>
+# 🌱 I’m currently learning Python, SQL, JavaScript.<br>
+# 📝 I regularly write articles on https://medium.com/@abhayku2002<br>
+# 💬 Ask me about C/C++, Python<br>📫 How to reach me abhayku2002@gmail.com<br>
+# ⚡ Fun fact: Video Editing is one of my hidden talents<br>
+# 🎀 Good at AI Modeling, Data Management, Database<br>
+# ✅ Make it work, make it right, make it fast<br><br>
 
 <img src="https://www.cloudyml.com/wp-content/uploads/2022/06/Insurance-Leadspace-Aniamted.gif" align="left" height="500" width="1000" />  
 
