@@ -43,7 +43,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=abhayku2002)](https://twitter.com/abhayku2002/)
 
-### ✍️ Random Dev Quot
+### ✍️ Random Dev Quotes 😂
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
