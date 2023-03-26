@@ -5,7 +5,7 @@
 # 💫 About Me:
  🌱 I’m currently learning Python, SQL, JavaScript.<br>
  ✍️ Currently Contributor at Appwrite, Wagtail, Chromium and FOSSASIA. </br>
- 📝 I regularly write articles on https://medium.com/@abhayku2002<br>
+ 📝 I regularly write articles on https://yourtechbuddy.medium.com/<br>
  💬 Ask me about C/C++, Python<br>📫 How to reach me abhayku2002@gmail.com<br>
  ⚡ Fun fact: Video Editing is one of my hidden talents<br>
  🎀 Good at AI Modeling, Data Management, Database<br>
