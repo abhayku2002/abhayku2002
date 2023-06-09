@@ -11,7 +11,7 @@
  🎀 Good at AI Modeling, Data Management, Database<br>
  ✅ Make it work, make it right, make it fast<br><br>
 
-<img src="https://www.cloudyml.com/wp-content/uploads/2022/06/Insurance-Leadspace-Aniamted.gif" align="left" height="500" width="1000" />  
+<img src="h[ttps://www.cloudyml.com/wp-content/uploads/2022/06/Insurance-Leadspace-Aniamted.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F7269423-Designer-Working-Animation&psig=AOvVaw2-uhfXpzaBVQc40f8gdddc&ust=1686389409653000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjy0a3wtf8CFQAAAAAdAAAAABBp)" align="left" height="500" width="1000" />  
 
 
 ---
