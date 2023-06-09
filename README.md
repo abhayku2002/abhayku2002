@@ -45,6 +45,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhayku2002&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
 
+[![abhayku2002's GitHub | Topics Over Time](https://stats.quine.sh/abhayku2002/topics-over-time?theme=light)](https://quine.sh)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=abhayku2002)](https://twitter.com/abhayku2002/)
 
