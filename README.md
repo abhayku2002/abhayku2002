@@ -11,7 +11,7 @@
  🎀 Good at AI Modeling, Data Management, Database<br>
  ✅ Make it work, make it right, make it fast<br><br>
 
-<img src="https://dribbble.com/shots/7269423-Designer-Working-Animation" align="left" height="500" width="1000" />  
+<img src="[https://dribbble.com/shots/7269423-Designer-Working-Animation](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=6c09b9529fabxfm4tpbzfeq8sf5c10cq6g858jucik92wodn&ep=v1_gifs_search&rid=200w.gif&ct=g)" align="left" height="500" width="1000" />  
 
 
 ---
