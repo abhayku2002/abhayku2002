@@ -10,8 +10,7 @@
  ⚡ Fun fact: Video Editing is one of my hidden talents<br>
  🎀 Good at AI Modeling, Data Management, Database<br>
  ✅ Make it work, make it right, make it fast<br><br>
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-work&psig=AOvVaw2-uhfXpzaBVQc40f8gdddc&ust=1686389409653000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjy0a3wtf8CFQAAAAAdAAAAABBy" align="left" height="500" width="1000" />  
+ 
 
 
 ---
