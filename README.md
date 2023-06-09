@@ -29,7 +29,7 @@
 ## 🎵 Music apps I use
 <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 ---
-
+[![abhayku2002's GitHub | Stats](https://stats.quine.sh/abhayku2002/github?theme=dark)](https://quine.sh)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abhayku2002&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
