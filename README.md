@@ -4,11 +4,11 @@
 
 # 💫 About Me:
  🌱 I’m currently learning Python, SQL, and JavaScript.<br>
- ✍️ Currently Contributor at Wagtail, SymPy and FOSSASIA. </br>
+ ✍️ Currently Open Source Contributor at SymPy and Zendalona. </br>
  📝 I regularly write articles on https://yourtechbuddy.medium.com/<br>
- 💬 Ask me about C/C++, Python<br>📫 How to reach me abhayku2002@gmail.com<br>
+ 💬 Ask me about Machine Learning, Deep Learning, Data Engineering<br>📫 How to reach me abhayku2002@gmail.com<br>
  ⚡ Fun fact: Video Editing is one of my hidden talents<br>
- 🎀 Good at AI Modeling, Data Management, Database<br>
+ 🎀 Good at AI Modeling, Data Management, Database, Machine Learning<br>
  ✅ Make it work, make it right, make it fast<br><br>
  
 
