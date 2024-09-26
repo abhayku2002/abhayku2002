@@ -11,7 +11,7 @@
  🎀 Good at AI Modeling, Data Management, Database, Machine Learning<br>
  ✅ Make it work, make it right, make it fast<br><br>
  
-[![An image of @abhayku2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhayku2002)](https://holopin.io/@abhayku2002)
+[![An image of @abhayku2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhayku2002)](https://holopin.io/@abhayku2002) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abhayku2002&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
